@@ -23,7 +23,7 @@
 
 * 나만의 AI비서 앱 "나비" 디자인
 
-   (사진)
+   ![navi](./image/NAVI.PNG)
    
 ## 연락처
 email : garam4266211@gmail.com
