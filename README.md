@@ -20,7 +20,7 @@
 * 재능기부 원데이 클래스 앱 "Give&Take"
 
    <img src="./image/GiveAndTake.PNG"  width="360px">
-   <hr width="360px" align="left">
+   <hr width="360px" align="left" hight="1px">
 
 * 나만의 AI비서 앱 "나비" 디자인
 
