@@ -19,7 +19,7 @@
 ## 프로젝트
 * 재능기부 원데이 클래스 앱 "Give&Take"
 
-    (사진 링크 등 첨부)
+    ![giveandtake](./image/GiveAndTake)
 
 * 나만의 AI비서 앱 "나비" 디자인
 
