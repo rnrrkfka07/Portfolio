@@ -25,7 +25,7 @@
 
   <img src="./image/NAVI.PNG"  width="360px">
 
-* 변칙 캐릭터 오목 게임 개발
+* 변칙 캐릭터 오목 게임 개발中
 
   <img src="./image/Gomoku.gif"  width="360px">
    
