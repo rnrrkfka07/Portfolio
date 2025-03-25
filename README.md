@@ -21,7 +21,7 @@
 
     ![giveandtake](./image/GiveAndTake.PNG)
   
-  <img src="./image/GiveAndTake.PNG", height="100x", width="100px">
+  <img src="./image/GiveAndTake.PNG", height="100px", width="100px">
 
 * 나만의 AI비서 앱 "나비" 디자인
 
