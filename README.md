@@ -24,6 +24,10 @@
 * 나만의 AI비서 앱 "나비" 디자인
 
   <img src="./image/NAVI.PNG"  width="360px">
+
+* 변칙 캐릭터 오목 게임 개발
+
+  <img src="./image/"  width="360px">
    
 ## 연락처
 email : garam4266211@gmail.com
