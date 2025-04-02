@@ -29,7 +29,7 @@
 
 * 변칙 캐릭터 오목 게임 개발中
 
-  <img src="./image/Gomoku.gif"  width="360px">   
+  <img src="./image/Gomoku.gif"  width="360px">    
   https://github.com/JIN-YOO-YU/Omok
   <hr width="360px" align="left">   
    
