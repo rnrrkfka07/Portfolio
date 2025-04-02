@@ -29,9 +29,9 @@
 
 * 변칙 캐릭터 오목 게임 개발中
 
-  <img src="./image/Gomoku.gif"  width="360px">
-  <hr width="360px" align="left">   
+  <img src="./image/Gomoku.gif"  width="360px">   
   https://github.com/JIN-YOO-YU/Omok
+  <hr width="360px" align="left">   
    
 ## 연락처
 email : garam4266211@gmail.com
