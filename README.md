@@ -13,7 +13,7 @@
 
 ## 기술스택
 * C#
-* Unity
+* <a href="https://blog.naver.com/PostList.naver?blogId=g4ram_&categoryNo=9&from=postList">Unity</a>
 
 ## 프로젝트
 * 재능기부 원데이 클래스 앱 "Give&Take" 디자인 및 UI 구현
