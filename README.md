@@ -12,7 +12,7 @@
 * (2024.01) JLPT N2 자격증 취득
 
 ## 기술스택
-* C#
+* <a href="https://blog.naver.com/PostList.naver?blogId=g4ram_&from=postList&categoryNo=11">C#</a>
 * <a href="https://blog.naver.com/PostList.naver?blogId=g4ram_&categoryNo=9&from=postList">Unity</a>
 
 ## 프로젝트
