@@ -18,7 +18,7 @@
 ## 프로젝트
 * 재능기부 원데이 클래스 앱 "Give&Take" 디자인 및 UI 구현
    
-   <a href="https://www.figma.com/design/UNsApITJ72SP3hfi06S5zQ/figma_%EA%B5%AD%EA%B0%80%EB%9E%8C?node-id=0-">Link</a>
+   <a href="https://www.figma.com/design/UNsApITJ72SP3hfi06S5zQ/figma_%EA%B5%AD%EA%B0%80%EB%9E%8C?node-id=0-">Figma</a>
      
    <img src="./image/GiveAndTake.PNG"  width="360px">
    <hr width="360px" align="left">
