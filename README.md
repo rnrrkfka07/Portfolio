@@ -31,7 +31,7 @@
   <hr width="360px" align="left">   
    
 ## 취업준비활동
-* <a href="./image/국가람_온라인교육수료증.pdf">온라인교육수료증</a>
+* <a href="./image/국가람_직업선호도검사.pdf">온라인교육수료증</a>
 
 ## 연락처
 email : garam4266211@gmail.com
