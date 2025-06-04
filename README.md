@@ -12,10 +12,12 @@
 * (2024.01) JLPT N2 자격증 취득
 
 ## 기술스택
-* 사용 언어
+* <b>사용 언어</b>
   * <a href="https://blog.naver.com/PostList.naver?blogId=g4ram_&from=postList&categoryNo=11">C#</a>
-* 개발 도구
+  * C++
+* <b>개발 도구</b>
   * <a href="https://blog.naver.com/PostList.naver?blogId=g4ram_&categoryNo=9&from=postList">Unity</a>
+  * Unreal Engine
 
 ## 프로젝트
 * 재능기부 원데이 클래스 앱 "Give&Take" UI 디자인 및 구현
