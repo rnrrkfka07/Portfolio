@@ -30,5 +30,8 @@
   <img src="./image/Gomoku.gif"  width="360px">    
   <hr width="360px" align="left">   
    
+## 취업준비활동
+  <a href="./image/GiveAndTake.PNG">Figma</a>
+
 ## 연락처
 email : garam4266211@gmail.com
