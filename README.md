@@ -29,6 +29,11 @@
      
   <img src="./image/Gomoku.gif"  width="360px">    
   <hr width="360px" align="left">   
+  
+* 탑다운 턴제 RPG Hospes 개발
+
+  Link : https://github.com/Romely0325/Hospes_CPP
+     
    
 ## 취업준비활동
 * <b>사이버진로교육센터 온라인 강의 수강</b> <a href="./image/국가람_온라인교육수료증.pdf">PDF</a>
@@ -41,6 +46,7 @@
 * <b>서일대학교 소프트웨어공학과 학생들을 위한 취업특강</b> <a href="./image/국가람_취업특강참여확인서.pdf">PDF</a>
 * <b>AI EXPO KOREA 2025 참관(COEX, 2025.05.16)</b> <a href="./image/국가람_박람회참여확인서.pdf">PDF</a>
 * <b>IT 취창업을 위한 스킬셋 업그레이드</b> <a href="./image/국가람_스터디활동보고서.pdf">PDF</a>
+  * 탑다운 턴제 RPG Hospes 개발
 
 ## 연락처
 email : garam4266211@gmail.com
