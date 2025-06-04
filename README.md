@@ -40,6 +40,7 @@
 * <b>재맞고 진로취업 특강(직업선호도 검사 L형) 참여</b> <a href="./image/국가람_직업선호도검사.pdf">PDF</a>
 * <b>서일대학교 소프트웨어공학과 학생들을 위한 취업특강</b> <a href="./image/국가람_취업특강참여확인서.pdf">PDF</a>
 * <b>AI EXPO KOREA 2025 참관(COEX, 2025.05.16)</b> <a href="./image/국가람_박람회참여확인서.pdf">PDF</a>
+* <b>IT 취창업을 위한 스킬셋 업그레이드</b> <a href="./image/국가람_스터디활동보고서.pdf">PDF</a>
 
 ## 연락처
 email : garam4266211@gmail.com
