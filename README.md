@@ -31,7 +31,7 @@
   <hr width="360px" align="left">   
    
 ## 취업준비활동
-* <a href="./image/국가람_언택트진로취업특강수료증.pdf">언택트 진로/취업 특강 수료</a>
+* <a href="./image/국가람_온라인교육수료증.pdf">온라인교육수료증</a>
 
 ## 연락처
 email : garam4266211@gmail.com
