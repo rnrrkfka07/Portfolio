@@ -39,6 +39,7 @@
 * <b>서일대학교 언택트 진로특강, 취업특강 이수</b> <a href="./image/국가람_언택트진로취업특강.pdf">PDF</a>
 * <b>재맞고 진로취업 특강(직업선호도 검사 L형) 참여</b> <a href="./image/국가람_직업선호도검사.pdf">PDF</a>
 * <b>서일대학교 소프트웨어공학과 학생들을 위한 취업특강</b> <a href="./image/국가람_취업특강참여확인서.pdf">PDF</a>
+* <b>AI EXPO KOREA 2025 참관</b> <a href="./image/국가람_박람회참여확인서.pdf">PDF</a>
 
 ## 연락처
 email : garam4266211@gmail.com
