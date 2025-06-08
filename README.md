@@ -34,9 +34,17 @@
   <img src="./image/Gomoku.gif"  width="360px">    
   <hr width="360px" align="left">   
   
-* 탑다운 턴제 RPG Hospes
+* 탑다운 턴제 RPG "Hospes"
 
   Link : https://github.com/Romely0325/Hospes_CPP
+
+   <hr width="360px" align="left"> 
+ 
+* 질문하면 대답해주는 디스코드 봇 "MoeBot"
+
+  Link : https://github.com/rnrrkfka07/MoeBot
+
+
      
    
 ## 취업준비활동
