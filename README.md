@@ -20,30 +20,32 @@
   * Unreal Engine
 
 ## 프로젝트
-* 재능기부 원데이 클래스 앱 "Give&Take" UI 디자인 및 구현
+* **재능기부 원데이 클래스 앱 "Give&Take" UI 디자인 및 구현**
    
    <a href="https://www.figma.com/design/UNsApITJ72SP3hfi06S5zQ/figma_%EA%B5%AD%EA%B0%80%EB%9E%8C?node-id=0-">Figma</a>
      
    <img src="./image/GiveAndTake.PNG"  width="360px">
    <hr width="360px" align="left">
 
-* 변칙 캐릭터 오목 게임 개발中
+* **변칙 캐릭터 오목 게임 개발中**
 
   Link : https://github.com/JIN-YOO-YU/Omok
      
   <img src="./image/Gomoku.gif"  width="360px">    
   <hr width="360px" align="left">   
   
-* 탑다운 턴제 RPG "Hospes"
+* **질문하면 대답해주는 디스코드 봇 "MoeBot"**
+
+  Link : https://github.com/rnrrkfka07/MoeBot
+    
+  <img src="./image/discordBot.gif"  width="300px">  
+  <hr width="360px" align="left">
+
+* **탑다운 턴제 RPG "Hospes"**
 
   Link : https://github.com/Romely0325/Hospes_CPP
 
    <hr width="360px" align="left"> 
- 
-* 질문하면 대답해주는 디스코드 봇 "MoeBot"
-
-  Link : https://github.com/rnrrkfka07/MoeBot
-
 
      
    
