@@ -43,7 +43,7 @@
 
 * **탑다운 턴제 RPG "Hospes"**
 
-  Link : https://github.com/Romely0325/Hospes_CPP
+  Link : https://github.com/Romely0325/Hospes
     
   <img src="./image/Hospes.png"  width="360px">  
   <hr width="360px" align="left"> 
